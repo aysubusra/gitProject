@@ -1,0 +1,2 @@
+# gitProject
+Ödev 1
