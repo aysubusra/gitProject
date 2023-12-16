@@ -1,2 +1,2 @@
 # gitProject
-Ödev 1
+My first commit!
